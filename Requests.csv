@@ -1,0 +1,442 @@
+,date,hospital,requests,A+,A-,B+,B-,AB+,AB-,O+,O-
+0,2022-01-01,"Hospital Pakar Sultanah Fatimah, Muar",15,3,3,2,1,1,0,1,4
+1,2022-01-01,"Hospital Sultanah Nora Ismail, Batu Pahat",0,0,0,0,0,0,0,0,0
+2,2022-01-01,"Hospital Enche Besar Hajjah Kalsom, Kluang",50,4,10,6,2,7,8,6,7
+3,2022-01-01,Hospital Segamat,35,4,8,2,3,4,6,5,3
+4,2022-01-01,Hospital Pontian,7,1,2,0,0,1,1,1,1
+5,2022-01-01,Hospital Kota Tinggi,7,0,2,1,0,2,0,1,1
+6,2022-01-01,Hospital Mersing,30,3,2,7,4,6,4,2,2
+7,2022-01-01,Hospital Tangkak,0,0,0,0,0,0,0,0,0
+8,2022-01-01,"Hospital Temenggung Seri Maharaja Tun Ibrahim, Kulai",18,5,1,3,2,1,1,4,1
+9,2022-01-01,Sultan Ismail Hospital,12,0,2,1,3,0,2,2,2
+10,2022-01-01,"Hospital Sultanah Aminah, Johor Bahru[2]",10,0,3,0,0,1,4,2,0
+11,2022-01-01,"Sultanah Bahiyah Hospital, Alor Setar",35,5,2,4,3,8,5,4,4
+12,2022-01-01,"Sultan Abdul Halim Hospital, Sungai Petani",6,1,2,1,0,1,0,0,1
+13,2022-01-01,Pendang Hospital,0,0,0,0,0,0,0,0,0
+14,2022-01-01,Kulim Hospital,18,1,2,4,3,1,6,0,1
+15,2022-01-01,Baling Hospital,14,4,1,0,3,3,3,0,0
+16,2022-01-01,Sik Hospital,7,2,1,0,0,1,0,1,2
+17,2022-01-01,Hospital Yan,6,0,1,1,2,0,1,1,0
+18,2022-01-01,Hospital Jitra,14,1,0,2,1,4,1,4,1
+19,2022-01-01,Hospital Kuala Nerang,28,4,4,5,4,1,3,4,3
+20,2022-01-01,"Hospital Raja Perempuan Zainab II, Kota Bharu",24,3,2,5,3,2,2,4,3
+21,2022-01-01,Hospital Pasir Mas,40,3,6,3,5,5,4,5,9
+22,2022-01-01,Hospital Tumpat,64,11,8,6,9,8,7,11,4
+23,2022-01-01,Hospital Machang,30,3,5,4,3,3,3,2,7
+24,2022-01-01,Hospital Jeli,10,0,2,2,0,1,3,1,1
+25,2022-01-01,Hospital Tanah Merah,0,0,0,0,0,0,0,0,0
+26,2022-01-01,"Hospital Tengku Anis, Pasir Putih",0,0,0,0,0,0,0,0,0
+27,2022-01-01,Hospital Gua Musang,15,2,5,0,0,2,1,2,3
+28,2022-01-01,Hospital Kuala Krai,28,2,2,7,5,1,2,6,3
+29,2022-01-01,Hospital Universiti Sains Malaysia (HUSM),8,1,1,1,0,3,0,2,0
+30,2022-01-01,Kuala Lumpur Hospital,16,2,1,3,4,3,0,1,2
+31,2022-01-01,National Heart Institute of Malaysia (IJN),35,1,2,7,8,8,4,5,0
+32,2022-01-01,Hospital Canselor Tuanku Muhriz UKM (HCTM),24,2,2,3,2,3,3,4,5
+33,2022-01-01,University Malaya Medical Centre (UMMC),0,0,0,0,0,0,0,0,0
+34,2022-01-01,Hospital Angkatan Tentera Tuanku Mizan,20,3,2,6,3,0,2,4,0
+35,2022-01-01,Hospital Rehabilitasi Cheras,42,4,8,5,3,7,5,3,7
+36,2022-01-01,Hospital Nukleus Labuan,0,0,0,0,0,0,0,0,0
+37,2022-01-01,Jabatan Kesihatan Labuan,0,0,0,0,0,0,0,0,0
+38,2022-01-01,Malacca General Hospital,35,5,5,6,3,2,3,3,8
+39,2022-01-01,Hospital Alor Gajah,28,2,5,2,3,5,3,6,2
+40,2022-01-01,Hospital Jasin,0,0,0,0,0,0,0,0,0
+41,2022-01-01,Hospital Angkatan Tentera Terendak,5,0,0,0,2,1,1,1,0
+42,2022-01-01,Tuanku Ja'afar Hospital,7,1,0,2,2,1,1,0,0
+43,2022-01-01,"Hospital Tuanku Ampuan Najihah, Kuala Pilah",8,0,0,0,2,1,0,5,0
+44,2022-01-01,Hospital Port Dickson,0,0,0,0,0,0,0,0,0
+45,2022-01-01,Hospital Tampin,7,2,1,1,0,1,0,1,1
+46,2022-01-01,Hospital Jelebu,0,0,0,0,0,0,0,0,0
+47,2022-01-01,Hospital Jempol,20,1,4,6,1,3,1,2,2
+48,2022-01-01,Hospital Rembau,14,1,0,3,0,1,3,3,3
+49,2022-01-01,Tengku Ampuan Afzan Hospital,7,1,1,0,1,2,1,1,0
+50,2022-01-01,Hospital Pekan,18,2,2,1,3,2,3,1,4
+51,2022-01-01,Hospital Kuala Lipis,0,0,0,0,0,0,0,0,0
+52,2022-01-01,Hospital Raub,6,1,2,0,1,0,1,1,0
+53,2022-01-01,Hospital Bentong,0,0,0,0,0,0,0,0,0
+54,2022-01-01,Hospital Jerantut,8,1,1,1,1,1,2,1,0
+55,2022-01-01,Hospital Jengka,12,0,1,1,4,2,1,0,3
+56,2022-01-01,Hospital Muadzam Shah,0,0,0,0,0,0,0,0,0
+57,2022-01-01,"Hospital Sultan Haji Ahmad Shah, Temerloh",7,0,0,1,1,2,1,2,0
+58,2022-01-01,Hospital Cameron Highlands,30,5,5,4,1,4,1,4,6
+59,2022-01-01,Hospital Rompin,0,0,0,0,0,0,0,0,0
+60,2022-01-01,Hospital Universiti Islam Antabangsa (UIA) Kuantan,0,0,0,0,0,0,0,0,0
+61,2022-01-01,Hospital Bera,40,1,3,3,7,5,5,6,10
+62,2022-01-01,Penang General Hospital,7,1,1,1,1,0,1,1,1
+63,2022-01-01,Hospital Sungai Bakap,0,0,0,0,0,0,0,0,0
+64,2022-01-01,Hospital Bukit Mertajam,6,0,2,0,1,0,2,0,1
+65,2022-01-01,Hospital Balik Pulau,18,3,4,0,2,1,2,2,4
+66,2022-01-01,Hospital Seberang Jaya,21,1,0,4,5,5,2,3,1
+67,2022-01-01,Hospital Kepala Batas,10,2,0,2,1,1,3,0,1
+68,2022-01-01,Hospital Batu Gajah,0,0,0,0,0,0,0,0,0
+69,2022-01-01,"Hospital Bahagia Ulu Kinta, Tanjung Rambutan",56,5,7,5,6,7,9,10,7
+70,2022-01-01,Hospital Changkat Melintang,77,17,7,8,9,7,12,11,6
+71,2022-01-01,Hospital Grik,0,0,0,0,0,0,0,0,0
+72,2022-01-01,Hospital Kampar,7,0,1,2,3,0,1,0,0
+73,2022-01-01,Hospital Kuala Kangsar,16,1,4,2,2,1,2,2,2
+74,2022-01-01,Hospital Parit Buntar,0,0,0,0,0,0,0,0,0
+75,2022-01-01,"Hospital Raja Permaisuri Bainun, Ipoh",0,0,0,0,0,0,0,0,0
+76,2022-01-01,Hospital Selama,16,1,2,3,0,1,3,4,2
+77,2022-01-01,Hospital Seri Manjung,16,5,0,3,2,4,0,2,0
+78,2022-01-01,Hospital Sg. Siput,0,0,0,0,0,0,0,0,0
+79,2022-01-01,Hospital Slim River,112,19,15,10,15,13,13,15,12
+80,2022-01-01,Hospital Tapah,7,0,0,0,2,2,1,2,0
+81,2022-01-01,Hospital Taiping,0,0,0,0,0,0,0,0,0
+82,2022-01-01,Hospital Teluk Intan,0,0,0,0,0,0,0,0,0
+83,2022-01-01,"Hospital Tuanku Fauziah, Kangar",14,6,0,2,2,0,2,0,2
+84,2022-01-01,Putrajaya Hospital,0,0,0,0,0,0,0,0,0
+85,2022-01-01,National Cancer Institute,5,1,0,0,1,1,0,2,0
+86,2022-01-01,"Queen Elizabeth Hospital, Kota Kinabalu (I & II)",14,2,1,0,2,1,3,3,2
+87,2022-01-01,"Duchess of Kent Hospital, Sandakan",7,1,1,2,0,1,1,1,0
+88,2022-01-01,Hospital Beaufort,0,0,0,0,0,0,0,0,0
+89,2022-01-01,Hospital Beluran,8,1,0,0,2,2,2,1,0
+90,2022-01-01,Hospital Keningau,10,2,2,2,2,0,0,2,0
+91,2022-01-01,Hospital Kinabatangan,6,1,1,1,0,1,2,0,0
+92,2022-01-01,Hospital Kota Belud,21,1,1,2,5,2,3,4,3
+93,2022-01-01,Hospital Kota Marudu,10,3,1,1,0,3,0,2,0
+94,2022-01-01,Hospital Kuala Penyu,0,0,0,0,0,0,0,0,0
+95,2022-01-01,Hospital Kudat,24,5,1,3,3,4,4,1,3
+96,2022-01-01,Hospital Lahad Datu,12,2,0,1,0,1,1,5,2
+97,2022-01-01,Hospital Mesra Bukit Padang,7,1,0,0,0,3,0,2,1
+98,2022-01-01,Hospital Papar,32,3,5,4,6,5,5,3,1
+99,2022-01-01,Hospital Ranau,56,5,7,8,7,10,4,11,4
+100,2022-01-01,Hospital Semporna,7,0,2,0,1,1,1,1,1
+101,2022-01-01,Hospital Sipitang,7,1,1,1,0,0,1,0,3
+102,2022-01-01,Hospital Tambunan,6,0,0,1,1,0,0,2,2
+103,2022-01-01,Hospital Tawau,0,0,0,0,0,0,0,0,0
+104,2022-01-01,Hospital Tenom,0,0,0,0,0,0,0,0,0
+105,2022-01-01,Hospital Wanita dan Kanak-Kanak Sabah[5],0,0,0,0,0,0,0,0,0
+106,2022-01-01,Sarawak General Hospital,0,0,0,0,0,0,0,0,0
+107,2022-01-01,"Sarawak General Hospital, Kota Samarahan (Cardiac services)",0,0,0,0,0,0,0,0,0
+108,2022-01-01,Hospital Bau,16,1,2,2,1,4,2,1,3
+109,2022-01-01,Hospital Sibu,0,0,0,0,0,0,0,0,0
+110,2022-01-01,Hospital Miri,0,0,0,0,0,0,0,0,0
+111,2022-01-01,Hospital Sarikei,0,0,0,0,0,0,0,0,0
+112,2022-01-01,Hospital Sri Aman,0,0,0,0,0,0,0,0,0
+113,2022-01-01,Hospital Limbang,7,2,0,1,1,1,0,0,2
+114,2022-01-01,Hospital Lawas,0,0,0,0,0,0,0,0,0
+115,2022-01-01,Hospital Kapit,0,0,0,0,0,0,0,0,0
+116,2022-01-01,Hospital Sentosa,0,0,0,0,0,0,0,0,0
+117,2022-01-01,Hospital Mukah,14,3,4,0,0,2,1,1,3
+118,2022-01-01,Hospital Marudi,0,0,0,0,0,0,0,0,0
+119,2022-01-01,Hospital Lundu,0,0,0,0,0,0,0,0,0
+120,2022-01-01,Hospital Bintulu,0,0,0,0,0,0,0,0,0
+121,2022-01-01,Hospital Betong,0,0,0,0,0,0,0,0,0
+122,2022-01-01,Hospital Serian,7,1,0,1,1,1,0,1,2
+123,2022-01-01,Hospital Simunjan,0,0,0,0,0,0,0,0,0
+124,2022-01-01,Rajah Charles Brooke Memorial Hospital,32,5,2,4,2,6,5,4,4
+125,2022-01-01,Hospital Kanowit,16,3,2,1,1,1,3,1,4
+126,2022-01-01,Hospital Saratok,21,4,2,2,3,4,4,1,1
+127,2022-01-01,Hospital Dalat,0,0,0,0,0,0,0,0,0
+128,2022-01-01,Hospital Shah Alam,0,0,0,0,0,0,0,0,0
+129,2022-01-01,Hospital Ampang,0,0,0,0,0,0,0,0,0
+130,2022-01-01,Hospital Banting,0,0,0,0,0,0,0,0,0
+131,2022-01-01,Hospital Kajang,28,0,3,5,3,9,1,5,2
+132,2022-01-01,Hospital Kuala Kubu Baru,15,3,1,1,2,0,0,5,3
+133,2022-01-01,Hospital Selayang,24,1,4,5,3,2,1,5,3
+134,2022-01-01,Hospital Sultan Idris Shah Serdang,56,3,9,6,7,10,4,8,9
+135,2022-01-01,Hospital Sungai Buloh,35,3,8,5,5,1,3,8,2
+136,2022-01-01,Hospital Tanjung Karang,28,4,5,1,1,4,4,4,5
+137,2022-01-01,"Hospital Tengku Ampuan Jemaah, Sabak Bernam",8,0,0,3,2,1,1,0,1
+138,2022-01-01,"Hospital Tengku Ampuan Rahimah, Klang",24,5,0,4,4,1,3,3,4
+139,2022-01-01,Universiti Putra Malaysia Teaching Hospital,8,0,1,0,1,1,2,3,0
+140,2022-01-01,"Universiti Teknologi MARA Teaching Hospital, Puncak Alam",12,1,3,2,0,3,2,1,0
+141,2022-01-01,"Hospital Sultanah Nur Zahirah, Kuala Terengganu",24,6,1,3,3,1,6,1,3
+142,2022-01-01,Hospital Dungun,7,0,3,0,1,1,0,1,1
+143,2022-01-01,Hospital Kemaman,5,1,0,1,1,0,0,1,1
+144,2022-01-01,Hospital Besut,5,1,0,0,1,2,1,0,0
+145,2022-01-01,Hospital Hulu Terengganu,14,2,0,2,1,2,1,2,4
+146,2022-01-01,Hospital Setiu,32,2,0,5,6,5,4,6,4
+147,2022-01-02,"Hospital Pakar Sultanah Fatimah, Muar",32,6,3,3,7,2,4,2,5
+148,2022-01-02,"Hospital Sultanah Nora Ismail, Batu Pahat",0,0,0,0,0,0,0,0,0
+149,2022-01-02,"Hospital Enche Besar Hajjah Kalsom, Kluang",35,3,7,5,7,1,6,1,5
+150,2022-01-02,Hospital Segamat,42,3,6,5,4,5,7,6,6
+151,2022-01-02,Hospital Pontian,16,0,3,1,5,2,2,2,1
+152,2022-01-02,Hospital Kota Tinggi,40,3,8,9,7,3,3,2,5
+153,2022-01-02,Hospital Mersing,24,5,5,0,5,1,1,1,6
+154,2022-01-02,Hospital Tangkak,6,1,2,0,0,0,1,2,0
+155,2022-01-02,"Hospital Temenggung Seri Maharaja Tun Ibrahim, Kulai",5,2,0,0,1,0,0,0,2
+156,2022-01-02,Sultan Ismail Hospital,12,0,1,3,3,1,1,1,2
+157,2022-01-02,"Hospital Sultanah Aminah, Johor Bahru[2]",0,0,0,0,0,0,0,0,0
+158,2022-01-02,"Sultanah Bahiyah Hospital, Alor Setar",40,3,5,7,4,8,8,2,3
+159,2022-01-02,"Sultan Abdul Halim Hospital, Sungai Petani",15,1,3,2,1,2,1,1,4
+160,2022-01-02,Pendang Hospital,7,0,0,2,0,1,2,0,2
+161,2022-01-02,Kulim Hospital,10,0,1,1,1,3,3,0,1
+162,2022-01-02,Baling Hospital,0,0,0,0,0,0,0,0,0
+163,2022-01-02,Sik Hospital,0,0,0,0,0,0,0,0,0
+164,2022-01-02,Hospital Yan,6,2,0,0,0,0,1,2,1
+165,2022-01-02,Hospital Jitra,15,3,1,2,0,1,6,2,0
+166,2022-01-02,Hospital Kuala Nerang,21,5,6,2,1,3,1,2,1
+167,2022-01-02,"Hospital Raja Perempuan Zainab II, Kota Bharu",0,0,0,0,0,0,0,0,0
+168,2022-01-02,Hospital Pasir Mas,16,1,1,2,2,3,2,3,2
+169,2022-01-02,Hospital Tumpat,84,15,8,10,13,13,8,11,6
+170,2022-01-02,Hospital Machang,24,1,1,4,4,2,2,5,5
+171,2022-01-02,Hospital Jeli,32,7,3,6,1,4,6,4,1
+172,2022-01-02,Hospital Tanah Merah,0,0,0,0,0,0,0,0,0
+173,2022-01-02,"Hospital Tengku Anis, Pasir Putih",0,0,0,0,0,0,0,0,0
+174,2022-01-02,Hospital Gua Musang,5,2,2,0,0,0,1,0,0
+175,2022-01-02,Hospital Kuala Krai,0,0,0,0,0,0,0,0,0
+176,2022-01-02,Hospital Universiti Sains Malaysia (HUSM),7,0,0,2,0,2,1,2,0
+177,2022-01-02,Kuala Lumpur Hospital,30,5,1,7,2,4,3,4,4
+178,2022-01-02,National Heart Institute of Malaysia (IJN),21,0,5,4,0,1,2,3,6
+179,2022-01-02,Hospital Canselor Tuanku Muhriz UKM (HCTM),12,1,0,3,1,3,2,0,2
+180,2022-01-02,University Malaya Medical Centre (UMMC),0,0,0,0,0,0,0,0,0
+181,2022-01-02,Hospital Angkatan Tentera Tuanku Mizan,40,3,6,1,6,7,3,10,4
+182,2022-01-02,Hospital Rehabilitasi Cheras,16,3,1,1,2,1,2,1,5
+183,2022-01-02,Hospital Nukleus Labuan,5,0,3,0,2,0,0,0,0
+184,2022-01-02,Jabatan Kesihatan Labuan,0,0,0,0,0,0,0,0,0
+185,2022-01-02,Malacca General Hospital,16,2,4,1,2,0,2,4,1
+186,2022-01-02,Hospital Alor Gajah,12,4,1,1,2,0,1,1,2
+187,2022-01-02,Hospital Jasin,7,0,0,1,0,3,2,0,1
+188,2022-01-02,Hospital Angkatan Tentera Terendak,8,1,1,2,0,0,1,0,3
+189,2022-01-02,Tuanku Ja'afar Hospital,16,0,2,2,3,1,4,2,2
+190,2022-01-02,"Hospital Tuanku Ampuan Najihah, Kuala Pilah",0,0,0,0,0,0,0,0,0
+191,2022-01-02,Hospital Port Dickson,0,0,0,0,0,0,0,0,0
+192,2022-01-02,Hospital Tampin,0,0,0,0,0,0,0,0,0
+193,2022-01-02,Hospital Jelebu,0,0,0,0,0,0,0,0,0
+194,2022-01-02,Hospital Jempol,55,11,10,6,6,4,8,6,4
+195,2022-01-02,Hospital Rembau,30,1,6,2,2,4,4,7,4
+196,2022-01-02,Tengku Ampuan Afzan Hospital,0,0,0,0,0,0,0,0,0
+197,2022-01-02,Hospital Pekan,20,2,2,2,1,2,6,3,2
+198,2022-01-02,Hospital Kuala Lipis,6,2,0,0,0,1,1,2,0
+199,2022-01-02,Hospital Raub,8,1,2,2,0,0,2,1,0
+200,2022-01-02,Hospital Bentong,8,2,1,1,2,1,1,0,0
+201,2022-01-02,Hospital Jerantut,8,1,0,0,2,0,1,2,2
+202,2022-01-02,Hospital Jengka,24,1,2,2,4,3,3,3,6
+203,2022-01-02,Hospital Muadzam Shah,5,0,1,1,0,0,0,1,2
+204,2022-01-02,"Hospital Sultan Haji Ahmad Shah, Temerloh",0,0,0,0,0,0,0,0,0
+205,2022-01-02,Hospital Cameron Highlands,18,3,1,6,0,3,3,1,1
+206,2022-01-02,Hospital Rompin,7,2,1,0,2,0,0,2,0
+207,2022-01-02,Hospital Universiti Islam Antabangsa (UIA) Kuantan,0,0,0,0,0,0,0,0,0
+208,2022-01-02,Hospital Bera,15,1,3,2,1,0,0,6,2
+209,2022-01-02,Penang General Hospital,7,2,1,1,0,1,1,0,1
+210,2022-01-02,Hospital Sungai Bakap,20,4,5,3,1,2,3,2,0
+211,2022-01-02,Hospital Bukit Mertajam,16,4,0,7,3,1,0,1,0
+212,2022-01-02,Hospital Balik Pulau,16,1,2,2,2,3,2,1,3
+213,2022-01-02,Hospital Seberang Jaya,10,4,1,0,1,1,2,1,0
+214,2022-01-02,Hospital Kepala Batas,10,2,1,3,1,0,2,0,1
+215,2022-01-02,Hospital Batu Gajah,18,2,5,0,2,2,2,0,5
+216,2022-01-02,"Hospital Bahagia Ulu Kinta, Tanjung Rambutan",75,7,5,5,12,12,14,6,14
+217,2022-01-02,Hospital Changkat Melintang,30,2,4,3,5,3,7,4,2
+218,2022-01-02,Hospital Grik,5,0,0,2,1,1,1,0,0
+219,2022-01-02,Hospital Kampar,8,2,1,1,0,0,0,2,2
+220,2022-01-02,Hospital Kuala Kangsar,8,0,2,0,2,2,1,1,0
+221,2022-01-02,Hospital Parit Buntar,24,4,3,3,3,0,4,5,2
+222,2022-01-02,"Hospital Raja Permaisuri Bainun, Ipoh",21,2,3,1,2,3,1,6,3
+223,2022-01-02,Hospital Selama,24,4,4,5,6,2,2,1,0
+224,2022-01-02,Hospital Seri Manjung,15,1,4,0,2,0,3,3,2
+225,2022-01-02,Hospital Sg. Siput,0,0,0,0,0,0,0,0,0
+226,2022-01-02,Hospital Slim River,60,10,13,8,6,8,3,4,8
+227,2022-01-02,Hospital Tapah,15,4,2,0,3,2,1,1,2
+228,2022-01-02,Hospital Taiping,0,0,0,0,0,0,0,0,0
+229,2022-01-02,Hospital Teluk Intan,0,0,0,0,0,0,0,0,0
+230,2022-01-02,"Hospital Tuanku Fauziah, Kangar",8,1,1,0,0,1,3,0,2
+231,2022-01-02,Putrajaya Hospital,16,4,1,1,2,1,2,3,2
+232,2022-01-02,National Cancer Institute,32,3,3,5,3,5,5,2,6
+233,2022-01-02,"Queen Elizabeth Hospital, Kota Kinabalu (I & II)",7,2,1,0,1,1,0,2,0
+234,2022-01-02,"Duchess of Kent Hospital, Sandakan",12,2,1,0,1,1,3,3,1
+235,2022-01-02,Hospital Beaufort,5,1,0,0,0,1,1,2,0
+236,2022-01-02,Hospital Beluran,16,3,1,2,4,2,0,2,2
+237,2022-01-02,Hospital Keningau,0,0,0,0,0,0,0,0,0
+238,2022-01-02,Hospital Kinabatangan,30,2,5,9,3,1,4,2,4
+239,2022-01-02,Hospital Kota Belud,24,6,2,3,3,2,3,3,2
+240,2022-01-02,Hospital Kota Marudu,10,1,0,0,2,2,3,1,1
+241,2022-01-02,Hospital Kuala Penyu,8,0,0,1,0,0,3,4,0
+242,2022-01-02,Hospital Kudat,0,0,0,0,0,0,0,0,0
+243,2022-01-02,Hospital Lahad Datu,10,0,4,3,1,1,0,0,1
+244,2022-01-02,Hospital Mesra Bukit Padang,8,0,1,0,2,0,1,2,2
+245,2022-01-02,Hospital Papar,8,3,2,1,1,1,0,0,0
+246,2022-01-02,Hospital Ranau,25,5,2,5,1,2,1,5,4
+247,2022-01-02,Hospital Semporna,7,1,3,0,1,1,0,1,0
+248,2022-01-02,Hospital Sipitang,7,1,0,2,0,1,0,0,3
+249,2022-01-02,Hospital Tambunan,0,0,0,0,0,0,0,0,0
+250,2022-01-02,Hospital Tawau,7,1,2,1,1,0,1,1,0
+251,2022-01-02,Hospital Tenom,7,1,2,2,0,0,0,1,1
+252,2022-01-02,Hospital Wanita dan Kanak-Kanak Sabah[5],30,5,8,5,0,3,4,1,4
+253,2022-01-02,Sarawak General Hospital,0,0,0,0,0,0,0,0,0
+254,2022-01-02,"Sarawak General Hospital, Kota Samarahan (Cardiac services)",0,0,0,0,0,0,0,0,0
+255,2022-01-02,Hospital Bau,8,2,0,1,1,2,0,2,0
+256,2022-01-02,Hospital Sibu,0,0,0,0,0,0,0,0,0
+257,2022-01-02,Hospital Miri,0,0,0,0,0,0,0,0,0
+258,2022-01-02,Hospital Sarikei,8,2,1,0,0,1,1,3,0
+259,2022-01-02,Hospital Sri Aman,18,2,3,4,2,2,1,2,2
+260,2022-01-02,Hospital Limbang,0,0,0,0,0,0,0,0,0
+261,2022-01-02,Hospital Lawas,0,0,0,0,0,0,0,0,0
+262,2022-01-02,Hospital Kapit,0,0,0,0,0,0,0,0,0
+263,2022-01-02,Hospital Sentosa,7,2,1,1,2,0,1,0,0
+264,2022-01-02,Hospital Mukah,8,2,0,0,3,1,0,0,2
+265,2022-01-02,Hospital Marudi,0,0,0,0,0,0,0,0,0
+266,2022-01-02,Hospital Lundu,24,4,3,3,3,4,1,5,1
+267,2022-01-02,Hospital Bintulu,0,0,0,0,0,0,0,0,0
+268,2022-01-02,Hospital Betong,5,0,2,1,0,1,1,0,0
+269,2022-01-02,Hospital Serian,0,0,0,0,0,0,0,0,0
+270,2022-01-02,Hospital Simunjan,8,1,0,1,1,3,1,0,1
+271,2022-01-02,Rajah Charles Brooke Memorial Hospital,24,3,4,2,6,3,2,3,1
+272,2022-01-02,Hospital Kanowit,8,2,0,0,1,2,1,0,2
+273,2022-01-02,Hospital Saratok,24,3,0,5,4,2,1,3,6
+274,2022-01-02,Hospital Dalat,24,5,6,1,5,3,0,3,1
+275,2022-01-02,Hospital Shah Alam,0,0,0,0,0,0,0,0,0
+276,2022-01-02,Hospital Ampang,0,0,0,0,0,0,0,0,0
+277,2022-01-02,Hospital Banting,0,0,0,0,0,0,0,0,0
+278,2022-01-02,Hospital Kajang,15,3,1,5,0,2,0,1,3
+279,2022-01-02,Hospital Kuala Kubu Baru,12,2,0,2,0,2,2,1,3
+280,2022-01-02,Hospital Selayang,49,3,8,4,5,5,7,11,6
+281,2022-01-02,Hospital Sultan Idris Shah Serdang,14,1,2,1,3,3,3,0,1
+282,2022-01-02,Hospital Sungai Buloh,5,0,1,0,0,1,1,0,2
+283,2022-01-02,Hospital Tanjung Karang,18,2,1,5,1,1,1,3,4
+284,2022-01-02,"Hospital Tengku Ampuan Jemaah, Sabak Bernam",5,1,0,0,0,2,0,2,0
+285,2022-01-02,"Hospital Tengku Ampuan Rahimah, Klang",20,2,4,5,3,3,1,2,0
+286,2022-01-02,Universiti Putra Malaysia Teaching Hospital,6,2,1,0,0,1,0,1,1
+287,2022-01-02,"Universiti Teknologi MARA Teaching Hospital, Puncak Alam",28,3,7,4,2,6,3,2,1
+288,2022-01-02,"Hospital Sultanah Nur Zahirah, Kuala Terengganu",80,10,8,7,12,13,5,10,15
+289,2022-01-02,Hospital Dungun,14,2,0,2,3,1,2,2,2
+290,2022-01-02,Hospital Kemaman,0,0,0,0,0,0,0,0,0
+291,2022-01-02,Hospital Besut,8,1,0,4,1,0,0,1,1
+292,2022-01-02,Hospital Hulu Terengganu,18,1,1,3,3,3,4,1,2
+293,2022-01-02,Hospital Setiu,48,6,7,4,7,5,5,10,4
+294,2022-01-03,"Hospital Pakar Sultanah Fatimah, Muar",15,1,4,3,1,3,0,1,2
+295,2022-01-03,"Hospital Sultanah Nora Ismail, Batu Pahat",8,0,2,0,2,1,2,1,0
+296,2022-01-03,"Hospital Enche Besar Hajjah Kalsom, Kluang",40,5,5,1,5,4,7,6,7
+297,2022-01-03,Hospital Segamat,40,3,7,8,2,2,8,2,8
+298,2022-01-03,Hospital Pontian,15,0,3,2,4,0,2,2,2
+299,2022-01-03,Hospital Kota Tinggi,21,4,3,3,5,0,1,2,3
+300,2022-01-03,Hospital Mersing,16,5,2,3,0,1,1,2,2
+301,2022-01-03,Hospital Tangkak,0,0,0,0,0,0,0,0,0
+302,2022-01-03,"Hospital Temenggung Seri Maharaja Tun Ibrahim, Kulai",35,5,7,7,1,4,4,4,3
+303,2022-01-03,Sultan Ismail Hospital,5,2,1,0,0,0,2,0,0
+304,2022-01-03,"Hospital Sultanah Aminah, Johor Bahru[2]",35,3,2,8,5,2,5,5,5
+305,2022-01-03,"Sultanah Bahiyah Hospital, Alor Setar",32,3,4,3,2,6,5,6,3
+306,2022-01-03,"Sultan Abdul Halim Hospital, Sungai Petani",8,1,2,3,2,0,0,0,0
+307,2022-01-03,Pendang Hospital,0,0,0,0,0,0,0,0,0
+308,2022-01-03,Kulim Hospital,16,3,0,1,1,2,2,2,5
+309,2022-01-03,Baling Hospital,0,0,0,0,0,0,0,0,0
+310,2022-01-03,Sik Hospital,8,2,1,0,1,2,1,0,1
+311,2022-01-03,Hospital Yan,12,2,1,1,1,1,5,0,1
+312,2022-01-03,Hospital Jitra,35,4,1,4,3,10,2,8,3
+313,2022-01-03,Hospital Kuala Nerang,21,2,1,1,4,1,2,3,7
+314,2022-01-03,"Hospital Raja Perempuan Zainab II, Kota Bharu",0,0,0,0,0,0,0,0,0
+315,2022-01-03,Hospital Pasir Mas,8,1,1,0,0,2,1,1,2
+316,2022-01-03,Hospital Tumpat,55,5,5,8,10,5,6,5,11
+317,2022-01-03,Hospital Machang,16,3,1,3,1,3,0,2,3
+318,2022-01-03,Hospital Jeli,12,2,2,0,2,2,2,0,2
+319,2022-01-03,Hospital Tanah Merah,0,0,0,0,0,0,0,0,0
+320,2022-01-03,"Hospital Tengku Anis, Pasir Putih",6,1,1,1,1,0,1,0,1
+321,2022-01-03,Hospital Gua Musang,56,3,7,11,9,7,7,7,5
+322,2022-01-03,Hospital Kuala Krai,40,7,6,5,5,3,5,3,6
+323,2022-01-03,Hospital Universiti Sains Malaysia (HUSM),0,0,0,0,0,0,0,0,0
+324,2022-01-03,Kuala Lumpur Hospital,35,8,4,3,4,6,4,3,3
+325,2022-01-03,National Heart Institute of Malaysia (IJN),12,2,0,2,1,2,1,1,3
+326,2022-01-03,Hospital Canselor Tuanku Muhriz UKM (HCTM),12,6,1,0,2,1,0,1,1
+327,2022-01-03,University Malaya Medical Centre (UMMC),8,1,1,2,0,2,0,2,0
+328,2022-01-03,Hospital Angkatan Tentera Tuanku Mizan,24,3,2,6,1,1,3,4,4
+329,2022-01-03,Hospital Rehabilitasi Cheras,21,2,5,2,4,3,2,1,2
+330,2022-01-03,Hospital Nukleus Labuan,0,0,0,0,0,0,0,0,0
+331,2022-01-03,Jabatan Kesihatan Labuan,0,0,0,0,0,0,0,0,0
+332,2022-01-03,Malacca General Hospital,48,3,8,6,7,5,9,5,5
+333,2022-01-03,Hospital Alor Gajah,16,0,1,2,2,4,0,4,3
+334,2022-01-03,Hospital Jasin,8,0,1,2,3,1,0,1,0
+335,2022-01-03,Hospital Angkatan Tentera Terendak,7,0,2,2,2,0,0,0,1
+336,2022-01-03,Tuanku Ja'afar Hospital,6,0,2,2,1,0,1,0,0
+337,2022-01-03,"Hospital Tuanku Ampuan Najihah, Kuala Pilah",0,0,0,0,0,0,0,0,0
+338,2022-01-03,Hospital Port Dickson,5,0,1,0,0,1,1,0,2
+339,2022-01-03,Hospital Tampin,8,2,0,0,1,1,1,1,2
+340,2022-01-03,Hospital Jelebu,10,1,1,4,1,1,1,1,0
+341,2022-01-03,Hospital Jempol,40,3,3,3,5,4,5,8,9
+342,2022-01-03,Hospital Rembau,6,0,0,2,0,1,0,3,0
+343,2022-01-03,Tengku Ampuan Afzan Hospital,0,0,0,0,0,0,0,0,0
+344,2022-01-03,Hospital Pekan,24,0,4,2,4,6,4,3,1
+345,2022-01-03,Hospital Kuala Lipis,0,0,0,0,0,0,0,0,0
+346,2022-01-03,Hospital Raub,8,1,1,0,2,1,0,2,1
+347,2022-01-03,Hospital Bentong,5,0,0,0,1,1,1,2,0
+348,2022-01-03,Hospital Jerantut,0,0,0,0,0,0,0,0,0
+349,2022-01-03,Hospital Jengka,0,0,0,0,0,0,0,0,0
+350,2022-01-03,Hospital Muadzam Shah,0,0,0,0,0,0,0,0,0
+351,2022-01-03,"Hospital Sultan Haji Ahmad Shah, Temerloh",10,3,3,1,0,0,3,0,0
+352,2022-01-03,Hospital Cameron Highlands,18,5,2,2,3,2,0,3,1
+353,2022-01-03,Hospital Rompin,8,1,1,0,0,1,1,1,3
+354,2022-01-03,Hospital Universiti Islam Antabangsa (UIA) Kuantan,0,0,0,0,0,0,0,0,0
+355,2022-01-03,Hospital Bera,16,0,1,7,3,2,1,2,0
+356,2022-01-03,Penang General Hospital,0,0,0,0,0,0,0,0,0
+357,2022-01-03,Hospital Sungai Bakap,0,0,0,0,0,0,0,0,0
+358,2022-01-03,Hospital Bukit Mertajam,5,0,1,1,0,1,0,1,1
+359,2022-01-03,Hospital Balik Pulau,16,3,2,0,1,3,3,2,2
+360,2022-01-03,Hospital Seberang Jaya,20,2,3,1,2,2,3,4,3
+361,2022-01-03,Hospital Kepala Batas,10,3,1,0,0,1,3,1,1
+362,2022-01-03,Hospital Batu Gajah,8,1,1,2,1,0,0,2,1
+363,2022-01-03,"Hospital Bahagia Ulu Kinta, Tanjung Rambutan",30,4,2,4,5,3,4,3,5
+364,2022-01-03,Hospital Changkat Melintang,63,8,9,3,7,11,9,5,11
+365,2022-01-03,Hospital Grik,7,3,0,1,0,2,0,1,0
+366,2022-01-03,Hospital Kampar,0,0,0,0,0,0,0,0,0
+367,2022-01-03,Hospital Kuala Kangsar,14,2,1,0,2,2,2,3,2
+368,2022-01-03,Hospital Parit Buntar,12,1,1,3,1,2,2,1,1
+369,2022-01-03,"Hospital Raja Permaisuri Bainun, Ipoh",24,4,6,3,0,3,0,2,6
+370,2022-01-03,Hospital Selama,28,4,2,5,2,3,4,4,4
+371,2022-01-03,Hospital Seri Manjung,10,1,3,2,1,2,0,1,0
+372,2022-01-03,Hospital Sg. Siput,10,0,1,1,1,1,3,3,0
+373,2022-01-03,Hospital Slim River,35,3,4,5,6,2,2,4,9
+374,2022-01-03,Hospital Tapah,16,0,2,2,3,0,3,4,2
+375,2022-01-03,Hospital Taiping,0,0,0,0,0,0,0,0,0
+376,2022-01-03,Hospital Teluk Intan,0,0,0,0,0,0,0,0,0
+377,2022-01-03,"Hospital Tuanku Fauziah, Kangar",5,0,0,1,0,1,1,1,1
+378,2022-01-03,Putrajaya Hospital,0,0,0,0,0,0,0,0,0
+379,2022-01-03,National Cancer Institute,50,7,3,6,8,4,6,7,9
+380,2022-01-03,"Queen Elizabeth Hospital, Kota Kinabalu (I & II)",30,7,4,4,5,4,3,2,1
+381,2022-01-03,"Duchess of Kent Hospital, Sandakan",16,3,1,3,1,1,2,3,2
+382,2022-01-03,Hospital Beaufort,0,0,0,0,0,0,0,0,0
+383,2022-01-03,Hospital Beluran,14,2,2,0,4,1,2,1,2
+384,2022-01-03,Hospital Keningau,5,0,0,0,1,1,1,1,1
+385,2022-01-03,Hospital Kinabatangan,10,3,0,1,2,1,2,1,0
+386,2022-01-03,Hospital Kota Belud,0,0,0,0,0,0,0,0,0
+387,2022-01-03,Hospital Kota Marudu,10,1,1,1,0,1,0,3,3
+388,2022-01-03,Hospital Kuala Penyu,0,0,0,0,0,0,0,0,0
+389,2022-01-03,Hospital Kudat,0,0,0,0,0,0,0,0,0
+390,2022-01-03,Hospital Lahad Datu,8,2,1,0,0,3,2,0,0
+391,2022-01-03,Hospital Mesra Bukit Padang,14,2,3,2,2,3,1,0,1
+392,2022-01-03,Hospital Papar,5,1,2,0,0,0,1,1,0
+393,2022-01-03,Hospital Ranau,10,0,1,1,0,3,2,2,1
+394,2022-01-03,Hospital Semporna,18,2,2,3,1,1,3,3,3
+395,2022-01-03,Hospital Sipitang,8,1,1,3,1,1,1,0,0
+396,2022-01-03,Hospital Tambunan,8,3,0,1,1,1,0,1,1
+397,2022-01-03,Hospital Tawau,0,0,0,0,0,0,0,0,0
+398,2022-01-03,Hospital Tenom,7,2,0,0,1,1,1,0,2
+399,2022-01-03,Hospital Wanita dan Kanak-Kanak Sabah[5],21,5,1,5,3,2,0,0,5
+400,2022-01-03,Sarawak General Hospital,0,0,0,0,0,0,0,0,0
+401,2022-01-03,"Sarawak General Hospital, Kota Samarahan (Cardiac services)",0,0,0,0,0,0,0,0,0
+402,2022-01-03,Hospital Bau,5,0,1,0,1,0,0,1,2
+403,2022-01-03,Hospital Sibu,8,0,0,1,2,1,2,2,0
+404,2022-01-03,Hospital Miri,0,0,0,0,0,0,0,0,0
+405,2022-01-03,Hospital Sarikei,0,0,0,0,0,0,0,0,0
+406,2022-01-03,Hospital Sri Aman,15,4,3,0,2,0,3,1,2
+407,2022-01-03,Hospital Limbang,0,0,0,0,0,0,0,0,0
+408,2022-01-03,Hospital Lawas,0,0,0,0,0,0,0,0,0
+409,2022-01-03,Hospital Kapit,10,1,2,0,2,2,1,1,1
+410,2022-01-03,Hospital Sentosa,0,0,0,0,0,0,0,0,0
+411,2022-01-03,Hospital Mukah,5,0,1,0,1,1,1,1,0
+412,2022-01-03,Hospital Marudi,0,0,0,0,0,0,0,0,0
+413,2022-01-03,Hospital Lundu,7,3,2,0,0,1,1,0,0
+414,2022-01-03,Hospital Bintulu,0,0,0,0,0,0,0,0,0
+415,2022-01-03,Hospital Betong,7,0,1,1,1,2,1,1,0
+416,2022-01-03,Hospital Serian,16,0,4,4,1,1,1,3,2
+417,2022-01-03,Hospital Simunjan,0,0,0,0,0,0,0,0,0
+418,2022-01-03,Rajah Charles Brooke Memorial Hospital,28,2,7,3,4,2,6,3,1
+419,2022-01-03,Hospital Kanowit,0,0,0,0,0,0,0,0,0
+420,2022-01-03,Hospital Saratok,56,9,4,9,8,9,7,3,7
+421,2022-01-03,Hospital Dalat,45,4,6,5,8,7,7,5,3
+422,2022-01-03,Hospital Shah Alam,0,0,0,0,0,0,0,0,0
+423,2022-01-03,Hospital Ampang,0,0,0,0,0,0,0,0,0
+424,2022-01-03,Hospital Banting,5,0,1,0,1,2,0,0,1
+425,2022-01-03,Hospital Kajang,15,3,1,1,3,0,0,2,5
+426,2022-01-03,Hospital Kuala Kubu Baru,36,3,3,3,5,2,6,10,4
+427,2022-01-03,Hospital Selayang,7,1,1,2,1,1,0,1,0
+428,2022-01-03,Hospital Sultan Idris Shah Serdang,28,0,7,1,2,9,3,3,3
+429,2022-01-03,Hospital Sungai Buloh,24,3,2,5,2,6,2,3,1
+430,2022-01-03,Hospital Tanjung Karang,36,8,4,3,4,4,5,5,3
+431,2022-01-03,"Hospital Tengku Ampuan Jemaah, Sabak Bernam",16,1,2,4,1,3,2,1,2
+432,2022-01-03,"Hospital Tengku Ampuan Rahimah, Klang",28,2,4,5,2,4,4,3,4
+433,2022-01-03,Universiti Putra Malaysia Teaching Hospital,6,0,0,0,4,0,1,0,1
+434,2022-01-03,"Universiti Teknologi MARA Teaching Hospital, Puncak Alam",18,5,2,1,4,2,2,0,2
+435,2022-01-03,"Hospital Sultanah Nur Zahirah, Kuala Terengganu",56,13,8,5,5,3,10,7,5
+436,2022-01-03,Hospital Dungun,0,0,0,0,0,0,0,0,0
+437,2022-01-03,Hospital Kemaman,16,0,2,5,2,1,1,2,3
+438,2022-01-03,Hospital Besut,0,0,0,0,0,0,0,0,0
+439,2022-01-03,Hospital Hulu Terengganu,20,4,3,2,2,2,2,3,2
+440,2022-01-03,Hospital Setiu,28,2,2,6,4,5,3,2,4
